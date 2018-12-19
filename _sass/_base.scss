@@ -113,7 +113,12 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1 {
+    font-weight: 300;
+    letter-spacing: -3;
+}
+
+h2, h3, h4, h5, h6 {
     font-weight: 100;
 }
 
@@ -137,7 +142,7 @@ a {
 
 article a {
     color: $theme-color;
-    font-weight: 500;
+    font-weight: 100;
 
     &:hover {
         text-decoration: none;
