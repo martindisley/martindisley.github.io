@@ -14,16 +14,13 @@ Link to your social media connections, too. This theme is set up to use <a href=
 
 <br/>
 <hr/>
-<br/>
-<br/>
+<hr/>
+<hr/>
+<hr/>
+<hr/>
 <hr/>
 <br/>
-<br/>
-<hr/>
-<br/>
-<br/>
-<hr/>
-<br/>
+
 <span class="contacticon center">
 	<a href="mailto:martin_disley@icloud.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/martindisley" target="_blank"><i class="fa fa-github-square"></i></a>
