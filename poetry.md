@@ -8,11 +8,11 @@ description: production credits, exhibitions, talks, live shows etc...
 2018
 
 Mit dem Ohr der Erinnerung<br/>
-AV composition, group exhibition<br/>
+AV installation (El Que Queda; Per Veure), group exhibition<br/>
 Sala Aranyo, Barcelona, Spain (December)
 
 Mit dem Ohr der Erinnerung<br/>
-AV composition, group exhibition<br/>
+AV installtion (El Que Queda; Per Veure), group exhibition<br/>
 Guterhallen Gallery, Soligen, Germany (July)
 
 Mit dem Ohr der Erinnerung<br/>
