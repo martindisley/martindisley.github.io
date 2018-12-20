@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AV Installation
-description: El Que Queda; Per Veure (What Remains; To Be Seen) 
+title: El Que Queda; Per Veure (What Remains; To Be Seen)
+description: AV Composition
 img: /img/felipneri.jpg
 ---
 
