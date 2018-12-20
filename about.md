@@ -13,13 +13,14 @@ Link to your social media connections, too. This theme is set up to use <a href=
 
 
 <br/>
-<hr/>
-<hr/>
-<hr/>
-<hr/>
-<hr/>
-<hr/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <span class="contacticon center">
 	<a href="mailto:martin_disley@icloud.com"><i class="fa fa-envelope-square"></i></a>
