@@ -5,46 +5,54 @@ title: live actions
 description: production credits, exhibitions, talks, live shows etc...
 ---
 
-Mit dem Ohr der Erinnerung<br/>
-AV Composition, group exhibition<br/>
-Sala Aranyo, Barcelona, Spain (December 2018)
+2018
 
 Mit dem Ohr der Erinnerung<br/>
-AV Composition, group exhibition<br/>
-Guterhallen Gallery, Soligen, Germany (July 2018)
+AV composition, group exhibition<br/>
+Sala Aranyo, Barcelona, Spain (December)
+
+Mit dem Ohr der Erinnerung<br/>
+AV composition, group exhibition<br/>
+Guterhallen Gallery, Soligen, Germany (July)
 
 Mit dem Ohr der Erinnerung<br/>
 Presentation of work-in-progress at Bauhaus University Weimar<br/>
-Studio for Electro-Acoustic Music (SeaM), Weimar, Germany (June 2018)
+Studio for Electro-Acoustic Music (SeaM), Weimar, Germany (June)
 
-The Tin Forest (Dee Isaacs)<br/>  
+The Tin Forest (Dee Isaacs)<br/>
 Laptop performance and sound design for theatre<br/>
-Banjul, The Gambia (April 2018)
+Banjul, The Gambia (April)
+
+2017
 
 Tinderbox Orchestra- Hidden Door Festival<br/>
 Live visuals and projection mapping<br/>
-Edinburgh, UK (June 2017)
+Edinburgh, UK (June)
+
+2016
 
 The Watching (Dee Isaacs)<br/>
-Banjul, The Gambia (December 2016)<br/> 
-Live vocal processing and laptop performance
+Live vocal processing and laptop performance<br/>
+Banjul, The Gambia (December) 
 
 Audiotalalia Residency Showcase<br/>
 AV Installation<br/>
-La Morera De Montsant, Spain (August 2016)
+La Morera De Montsant, Spain (August)
 
 Tinderbox Room To Play- Hidden Door Festival<br/>
 Interactive AV Installation<br/>
-Edinburgh, UK (June 2016)
+Edinburgh, UK (June)
 
 Post Cards From Our World (Dee Isaacs)<br/> 
 Sound Design<br/> 
-Edinburgh, UK (March 2016)
+Edinburgh, UK (March)
+
+2015
 
 A Requiem For Edward Snowdon (Matthew Collings)<br/>
 Assistant Sound Technician<br/> 
-Edinburgh, UK (August 2015)
+Edinburgh, UK (August)
 
 The Watching (Dee Isaacs)<br/>
 Recording Engineer<br/>
-Edinburgh, UK (March 2015)
+Edinburgh, UK (March)
