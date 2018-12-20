@@ -5,7 +5,7 @@ title: live actions
 description: production credits, exhibitions, talks, live shows etc...
 ---
 
-Mit dem Ohr der Erinnerung\
+Mit dem Ohr der Erinnerung<br/>
 AV Composition, group exhibition\
 Sala Aranyo, Barcelona, Spain (December 2018)
 
