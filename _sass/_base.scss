@@ -30,6 +30,7 @@ $blue: #0000FF;
 $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
+$new-grey: #555;
 
 
 $grey-color-dark: #333;   /* footer */
@@ -37,7 +38,7 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   #555;
+$theme-color:   $grey-color-dark;
 
 
 /************************************************************/
