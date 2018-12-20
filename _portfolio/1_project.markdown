@@ -54,4 +54,4 @@ The code is simple. Just add a col class to your image, and another class specif
 	  <img class="col one" src="/img/11.jpg"/>
 	</div>
     
-    <a class="twitter-timeline" href="https://twitter.com/TheListTweeted?ref_src=twsrc%5Etfw">Tweets by TheListTweeted</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/TheListTweeted?ref_src=twsrc%5Etfw">Tweets by TheListTweeted</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
