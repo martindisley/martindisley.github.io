@@ -27,5 +27,4 @@ Alexander-Coppel-Strasse 42 42651 Solingen, Germany
 22 July - 12 August 2018
 https://www.gueterhallen.de/
 
-<iframe src="https://player.vimeo.com/video/281084348" width="640" height="351" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/281084348">El Que Queda; Per Veure (What Remains; To Be Seen) [Excerpt]</a> from <a href="https://vimeo.com/user35027744">Martin Disley</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/281084348?title=0&byline=0&portrait=0" width="640" height="351" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
