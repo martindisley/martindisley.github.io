@@ -27,4 +27,4 @@ Alexander-Coppel-Strasse 42 42651 Solingen, Germany
 22 July - 12 August 2018
 https://www.gueterhallen.de/
 
-<iframe src="https://player.vimeo.com/video/281084348?title=0&byline=0&portrait=0" width="640" height="351" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p align="center"><iframe src="https://player.vimeo.com/video/281084348?title=0&byline=0&portrait=0" width="640" height="351" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
