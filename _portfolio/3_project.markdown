@@ -5,4 +5,4 @@ description: Composition
 img: /img/melor.jpg
 ---
 
-<iframe style="border: 0; width: 700px; height: 921px;" src="https://bandcamp.com/EmbeddedPlayer/album=825658272/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://melorrecords.bandcamp.com/album/empty-gestures-vol-3-a-collection-of-friction">Empty Gestures Vol 3: A Collection Of Friction by Melor Records</a></iframe>
+<p align="center"><iframe style="border: 0; width: 700px; height: 921px;" src="https://bandcamp.com/EmbeddedPlayer/album=825658272/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://melorrecords.bandcamp.com/album/empty-gestures-vol-3-a-collection-of-friction">Empty Gestures Vol 3: A Collection Of Friction by Melor Records</a></iframe>
