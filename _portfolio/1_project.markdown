@@ -18,4 +18,4 @@ My point here is not to deliver 'news'. This is not intended as a 'most recent d
 Thanks to [Gregor McCreadie](https://twitter.com/GregorMcC) for help with the code.
 <br>
 <br>
-<p align="center"><a class="twitter-timeline" data-width="500" data-height="1000" data-theme="light" href="https://twitter.com/TheListTweeted?ref_src=twsrc%5Etfw">Tweets by TheListTweeted</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p align="center"><a class="twitter-timeline" data-width="500" data-height="750" data-theme="light" href="https://twitter.com/TheListTweeted?ref_src=twsrc%5Etfw">Tweets by TheListTweeted</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
