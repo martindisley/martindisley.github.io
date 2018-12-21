@@ -15,7 +15,7 @@ My project attempts to retain a sense of scale, while representing each person w
 My point here is not to deliver 'news'. This is not intended as a 'most recent death' alert. Rather, this project reaffirms that the loss of a human life, the details of which have appeared in your timeline, should not be diminished by the ostensible homogeneity of the 'group'.
 
 <br>
-thanks to [Gregor McCreadie](https://twitter.com/GregorMcC) for help with the code.
+Thanks to [Gregor McCreadie](https://twitter.com/GregorMcC) for help with the code.
 <br>
 
 <a class="twitter-timeline" href="https://twitter.com/TheListTweeted?ref_src=twsrc%5Etfw">Tweets by TheListTweeted</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
