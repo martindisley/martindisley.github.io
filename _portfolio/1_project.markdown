@@ -4,7 +4,7 @@ title: The List Tweeted
 description: Twitter Bot
 img: /img/thelist.jpg
 ---
-###A twitter bot that periodically generates tweets based on entries from [The List](https://uploads.guim.co.uk/2018/06/19/TheList.pdf), a record compiled by the network [United for Intercultural Action](https://www.unitedagainstracism.org) of every reported instance in which someone has died trying to migrate into Europe.
+### A twitter bot that periodically generates tweets based on entries from [The List](https://uploads.guim.co.uk/2018/06/19/TheList.pdf), a record compiled by the network [United for Intercultural Action](https://www.unitedagainstracism.org) of every reported instance in which someone has died trying to migrate into Europe.
 
 What is initially striking about this list is its scale. The collective loss of life is profound. Of the attempts to communicate this information visually, most seemed to accurately capture scale. In looking at these visualisations, I was moved to consider what we lose when we focus too narrowly on representing scale.
 
@@ -15,7 +15,7 @@ My project attempts to retain a sense of scale, while representing each person w
 My point here is not to deliver 'news'. This is not intended as a 'most recent death' alert. Rather, this project reaffirms that the loss of a human life, the details of which have appeared in your timeline, should not be diminished by the ostensible homogeneity of the 'group'.
 
 <br>
-Thanks to [Gregor](https://twitter.com/GregorMcC) for help in setting up the server.
+thanks to [Gregor McCreadie](https://twitter.com/GregorMcC) for help with the code.
 <br>
 
 <a class="twitter-timeline" href="https://twitter.com/TheListTweeted?ref_src=twsrc%5Etfw">Tweets by TheListTweeted</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
