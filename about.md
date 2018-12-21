@@ -17,24 +17,12 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 
 <span class="contacticon center">
 	<a href="mailto:martin_disley@icloud.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/martindisley" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.linkedin.com/in/martin-disley/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/_mdisley" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
