@@ -33,7 +33,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 <div class="img_row">
-    <img class="col three" src="/img/prof_pic.jpg">
+    <img class="col three" src="/img/still-in-the-move.gif">
 </div>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
