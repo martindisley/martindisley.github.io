@@ -21,5 +21,4 @@ The ‘context’ here frames the second use of the term. The ‘micro narrative
 
 This project was the result of my final year undergraduate research project for the Music Technology programme at The University of Edinburgh.
 
-
 <p align="center"><iframe src="https://player.vimeo.com/video/223891990?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
