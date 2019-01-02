@@ -5,6 +5,8 @@ description: Interactive AV Installation
 img: /img/stillinthemove.png
 ---
 
+Did this work?
+
 </div>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/still-in-the-move.gif" alt="" title="example image"/>
