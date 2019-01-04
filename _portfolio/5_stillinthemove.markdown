@@ -1,6 +1,6 @@
 ---
 layout: post
-title: still in the move
+title: still in the move.
 description: Interactive AV Installation
 img: /img/stillinthemove.png
 ---
