@@ -7,9 +7,10 @@ permalink: /about/
 <!---<img class="col one right" src="/img/prof_pic.jpg">--->
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+Martin Disley (born 1994) is a composer and new media artist based in Edinburgh, Scotland. Since graduating from the University of Edinburgh (2017) and Universitat Pompeu Fabra, Barcelona (2018) he has continued to pursue interdisciplinary practice including [composition](https://www.martindisley.co.uk/portfolio/1_restnowdiehard/), [installation](https://www.martindisley.co.uk/portfolio/3_elquequeda/) and [new media](https://www.martindisley.co.uk/portfolio/2_thelisttweeted/) projects. Exhibitions and collaborations have already taken his work to [Germany, Spain and The Gambia](https://www.martindisley.co.uk/live-action/). Most recently, he has been interning under composers [Ben Frost](http://ethermachines.com/) and [Valgeir Sigurðsson](http://valgeir.net/) in [Iceland](https://greenhouse.is/).
+
+Please do not hesitate to get in touch via the links below. My CV can be found [here].
 
 
 <br/>
