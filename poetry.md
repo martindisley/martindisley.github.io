@@ -7,12 +7,12 @@ description: production credits, exhibitions, talks, live shows etc...
 
 Upcoming
 
-16-17 Febuary
+16-17 Febuary<br/>
 Sound Thought Festival<br/>
 AV installation (El Que Queda; Per Veure)<br/>
 Centre for Contemporary Arts, 350 Sauchiehall St, Glasgow
 
-17 Febuary
+17 Febuary<br/>
 Sound Thought Festival<br/>
 (Solo) Le Combat (live debut)<br/>
 Centre for Contemporary Arts, 350 Sauchiehall St, Glasgow
