@@ -22,9 +22,17 @@ This work sits in a larger project of correcting a historical undoing. It hopes 
 7:02 min, HD video, 2018.
 * Full video upon request *
 
-Exhibited as part of the Mit dem Ohr in der Erinnerung project at The Güterhallen
-Alexander-Coppel-Strasse 42 42651 Solingen, Germany
-22 July - 12 August 2018
+Exhibited as part of the Mit dem Ohr in der Erinnerung project at 
+The Güterhallen, Alexander-Coppel-Strasse 42 42651 Solingen, Germany
+22 July - 12 August 2018 
 https://www.gueterhallen.de/
+&
+Sala Aranyo, Roc Boronat, 138, 08018 Barcelona
+4 December 2018
+
+Exhibited as part of Sound Thought Festival
+Centre for Contemporary Arts, 350 Sauchiehall St, Glasgow G2 3JD
+16 - 17 Febuary 2019 
+
 
 <p align="center"><iframe src="https://player.vimeo.com/video/281084348?title=0&byline=0&portrait=0" width="640" height="351" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
