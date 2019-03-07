@@ -1,7 +1,7 @@
 # Site settings
 title: Martin Disley
 email: martin_disley@icloud.com
-description: > # this means to ignore newlines until "baseurl:"
+description:
   Composer and new media artist based in Edinburgh, Scotland. Practice includes composition, installation and new media projects. Exhibitions and collaborations have already taken his work across Europe and beyond...
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
