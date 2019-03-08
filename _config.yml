@@ -1,9 +1,10 @@
 # Site settings
 title: Martin Disley
 email: martin_disley@icloud.com
-description: Composer and new media artist based in Edinburgh, Scotland. Practice includes composition, installation and new media projects. Exhibitions and collaborations have already taken his work across Europe and beyond...
-baseurl: /index/ # the subpath of your site, e.g. /blog/
-url:  www.martindisley.co.uk # the base hostname & protocol for your site
+description:
+  Composer and new media artist based in Edinburgh, Scotland. Practice includes composition, installation and new media projects. Exhibitions and collaborations have already taken his work across Europe and beyond...
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
 twitter_username: _mdisley
 github_username:  martindisley
 
