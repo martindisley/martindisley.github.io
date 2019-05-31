@@ -8,25 +8,25 @@ description: production credits, exhibitions, talks, live shows etc...
 Upcoming
 
 14 June<br/>
-(Solo) Le Combat w/ Super Inuit + Convex Mancave
-The Safari Lounge, Edinburgh, Scotland
+(Solo) Le Combat w/ Super Inuit + Convex Mancave<br/>
+The Safari Lounge, Edinburgh, Scotland<br/>
 
 
 2019
 
 18 May<br/>
-Tay Late/Arcadia Festival/Room to Play
-Interactive AV Installation
-V&A Museum, Dundee, Scotland
+Tay Late/Arcadia Festival/Room to Play<br/>
+Interactive AV Installation<br/>
+V&A Museum, Dundee, Scotland<br/>
 
 17 May<br/>
-Creative Informatics Labs
-Presentation on data-driven creative practice
-Edinburgh Sculpture Workshop
+Creative Informatics Labs<br/>
+Presentation on data-driven creative practice<br/>
+Edinburgh Sculpture Workshop<br/>
 
 27 April<br/>
-Live - Zonal Winds (for Cello and Electronics)
-Custom House Gallery, Leith, Scotland
+Live - Zonal Winds (for Cello and Electronics)<br/>
+Custom House Gallery, Leith, Scotland<br/>
 
 16-17 Febuary<br/>
 Sound Thought Festival<br/>
