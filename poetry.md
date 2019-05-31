@@ -22,7 +22,7 @@ V&A Museum, Dundee, Scotland<br/>
 17 May<br/>
 Creative Informatics Labs<br/>
 Presentation on data-driven creative practice<br/>
-Edinburgh Sculpture Workshop<br/>
+Edinburgh Sculpture Workshop, Edinburgh, Scotland<br/>
 
 27 April<br/>
 Live - Zonal Winds (for Cello and Electronics)<br/>
