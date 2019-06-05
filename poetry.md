@@ -8,7 +8,7 @@ description: production credits, exhibitions, talks, live shows etc...
 Upcoming
 
 14 June<br/>
-(Solo) Le Combat w/ Super Inuit + Convex Mancave<br/>
+(Solo) Le Combat w/ Super Inuit<br/>
 The Safari Lounge, Edinburgh, Scotland<br/>
 
 
