@@ -7,12 +7,16 @@ description: production credits, exhibitions, talks, live shows etc...
 
 Upcoming
 
-14 June<br/>
-(Solo) Le Combat w/ Super Inuit<br/>
-The Safari Lounge, Edinburgh, Scotland<br/>
+11 October<br/>
+DIE HARD: REST NOW! Film Screening ([playback](https://www.martindisley.co.uk/portfolio/1_restnowdiehard/))<br/>
+Kunstencentrum Vooruit, Ghent, Belgium<br/>
 
 
 2019
+
+14 June<br/>
+(Solo) Le Combat w/ Super Inuit<br/>
+The Safari Lounge, Edinburgh, Scotland<br/>
 
 18 May<br/>
 Tay Late/Arcadia Festival/Room to Play<br/>
