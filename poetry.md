@@ -8,7 +8,7 @@ description: production credits, exhibitions, talks, live shows etc...
 Upcoming
 
 25 July - 25 August<br/>
-Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19)<br/>
+[Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19)](https://festival19.summerhall.co.uk/exhibition/extinction-rebellion/)<br/>
 Untitled 4-Channel Audio Installation<br/>
 Summerhall, Edinburgh, Scotland<br/>
 
