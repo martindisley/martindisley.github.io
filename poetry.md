@@ -7,6 +7,11 @@ description: production credits, exhibitions, talks, live shows etc...
 
 Upcoming
 
+25 July - 25 August<br/>
+Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19)<br/>
+Untitled 4-Channel Audio Installation<br/>
+Summerhall, Edinburgh, Scotland<br/>
+
 11 October<br/>
 DIE HARD: REST NOW! Film Screening ([playback](https://www.martindisley.co.uk/portfolio/1_restnowdiehard/))<br/>
 Kunstencentrum Vooruit, Ghent, Belgium<br/>
