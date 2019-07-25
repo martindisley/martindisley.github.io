@@ -9,12 +9,12 @@ Upcoming
 
 25 July - 25 August<br/>
 [Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19')](https://festival19.summerhall.co.uk/exhibition/extinction-rebellion/)<br/>
-[A Resonant Husk](https://www.martindisley.co.uk/portfolio/1_aresonanthusk/),
-4-Channel Audio Installation<br/>
+[A Resonant Husk](https://www.martindisley.co.uk/portfolio/1_aresonanthusk/),<br/>
+four-channel Audio Installation<br/>
 Summerhall, Edinburgh, Scotland<br/>
 
 11 October<br/>
-DIE HARD: REST NOW! Film Screening ([playback](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/))<br/>
+DIE HARD: REST NOW! Film Screening [(playback](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/))<br/>
 Kunstencentrum Vooruit, Ghent, Belgium<br/>
 
 
