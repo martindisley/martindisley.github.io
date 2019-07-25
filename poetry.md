@@ -10,7 +10,7 @@ Upcoming
 25 July - 25 August<br/>
 [Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19')](https://festival19.summerhall.co.uk/exhibition/extinction-rebellion/)<br/>
 [A Resonant Husk](https://www.martindisley.co.uk/portfolio/1_aresonanthusk/),<br/>
-Four-channel Audio Installation<br/>
+Four-channel audio installation<br/>
 Summerhall, Edinburgh, Scotland<br/>
 
 11 October<br/>
