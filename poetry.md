@@ -7,11 +7,9 @@ description: production credits, exhibitions, talks, live shows etc...
 
 Upcoming
 
-25 July - 25 August<br/>
-[Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19')](https://festival19.summerhall.co.uk/exhibition/extinction-rebellion/)<br/>
-[A Resonant Husk](https://www.martindisley.co.uk/portfolio/1_aresonanthusk/),<br/>
-Four-channel audio installation<br/>
-Summerhall, Edinburgh, Scotland<br/>
+19 September<br/>
+(Solo) Martin Disley - [Shoormal Conference](https://www.shetlandarts.org/our-work/commissions/shoormal-conference-commissions/martin-disley)<br/>
+Mareel, Lerwick, Shetland<br/>
 
 11 October<br/>
 DIE HARD: REST NOW! Film Screening [(playback](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/))<br/>
@@ -19,6 +17,12 @@ Kunstencentrum Vooruit, Ghent, Belgium<br/>
 
 
 2019
+
+25 July - 25 August<br/>
+[Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19')](https://festival19.summerhall.co.uk/exhibition/extinction-rebellion/)<br/>
+[A Resonant Husk](https://www.martindisley.co.uk/portfolio/1_aresonanthusk/),<br/>
+Four-channel audio installation<br/>
+Summerhall, Edinburgh, Scotland<br/>
 
 14 June<br/>
 (Solo) Le Combat w/ Super Inuit<br/>
