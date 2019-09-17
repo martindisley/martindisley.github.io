@@ -23,6 +23,6 @@ Please do not hesitate to get in touch via the links below.
 <span class="contacticon center">
 	<a href="mailto:martin_disley@icloud.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/martindisley" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://twitter.com/_mdisley" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://twitter.com/martin_disley" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
