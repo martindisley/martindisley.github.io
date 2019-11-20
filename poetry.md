@@ -5,18 +5,25 @@ title: live actions
 description: production credits, exhibitions, talks, live shows etc...
 ---
 
-Upcoming
 
-19 September<br/>
-(Solo) Martin Disley - [Shoormal Conference](https://www.shetlandarts.org/our-work/commissions/shoormal-conference-commissions/martin-disley)<br/>
-Mareel, Lerwick, Shetland<br/>
+2019
+
+20 November<br/>
+Beyond Conference/AI Primer<br/>
+(Presentation) AI Art: Image synthesis and Generative Adverserial Networks<br/>
+InSpace, Edinburgh, Scotland<br/>
+
+27 October<br/>
+(Solo Live) Martin Disley w/ Aurora Engine<br/>
+Leith Depot, Edinburgh Scotland<br/>
 
 11 October<br/>
 DIE HARD: REST NOW! Film Screening [(playback](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/))<br/>
 Kunstencentrum Vooruit, Ghent, Belgium<br/>
 
-
-2019
+19 September<br/>
+(Solo Live) Martin Disley - [Shoormal Conference](https://www.shetlandarts.org/our-work/commissions/shoormal-conference-commissions/martin-disley)<br/>
+Mareel, Lerwick, Shetland<br/>
 
 25 July - 25 August<br/>
 [Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19')](https://festival19.summerhall.co.uk/exhibition/extinction-rebellion/)<br/>
