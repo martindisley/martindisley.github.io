@@ -18,7 +18,7 @@ InSpace, Edinburgh, Scotland<br/>
 Leith Depot, Edinburgh Scotland<br/>
 
 11 October<br/>
-DIE HARD: REST NOW! Film Screening [(playback)](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/))<br/>
+DIE HARD: REST NOW! Film Screening [(playback)](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/)<br/>
 Kunstencentrum Vooruit, Ghent, Belgium<br/>
 
 19 September<br/>
