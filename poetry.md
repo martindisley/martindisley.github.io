@@ -9,8 +9,8 @@ description: production credits, exhibitions, talks, live shows etc...
 2019
 
 20 November<br/>
-Beyond Conference/AI Primer<br/>
-(Presentation) AI Art: Image synthesis and Generative Adverserial Networks<br/>
+[Beyond Conference](https://beyondconference.org/) Fringe - AI Primer<br/>
+(Presentation) AI Art: Image synthesis and Generative Adversarial Networks<br/>
 InSpace, Edinburgh, Scotland<br/>
 
 27 October<br/>
@@ -18,7 +18,7 @@ InSpace, Edinburgh, Scotland<br/>
 Leith Depot, Edinburgh Scotland<br/>
 
 11 October<br/>
-DIE HARD: REST NOW! Film Screening [(playback](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/))<br/>
+DIE HARD: REST NOW! Film Screening [(playback)](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/))<br/>
 Kunstencentrum Vooruit, Ghent, Belgium<br/>
 
 19 September<br/>
