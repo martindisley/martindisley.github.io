@@ -2,7 +2,6 @@
 layout: page
 permalink: /live-action/
 title: live actions
-description: production credits, exhibitions, talks, live shows etc...
 ---
 
 2020
