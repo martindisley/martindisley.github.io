@@ -1,7 +1,8 @@
 ---
 layout: post
+permalink: /el-que-queda/
 title: El Que Queda; Per Veure (What Remains; To Be Seen)
-description: AV Installation 
+description: AV Installation
 img: /img/felipneri.jpg
 ---
 
@@ -22,7 +23,7 @@ This work sits in a larger project of correcting a historical undoing. It hopes 
 7:02 min, HD video, 2018.
 * Full video upon request *
 
-Exhibited as part of the Mit dem Ohr in der Erinnerung project: 
+Exhibited as part of the Mit dem Ohr in der Erinnerung project:
 
 The Güterhallen, Alexander-Coppel-Strasse 42 42651 Solingen, Germany<br/>
 22 July - 12 August 2018<br/>

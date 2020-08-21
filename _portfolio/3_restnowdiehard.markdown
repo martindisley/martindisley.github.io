@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /rest-now-die-hard/
 title: Track on Rest Now! Compilation
 description: Composition
 img: /img/restnowdiehard.jpg

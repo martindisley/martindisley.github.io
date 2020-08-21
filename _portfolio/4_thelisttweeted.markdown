@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /the-list-tweeted/
 title: The List Tweeted
 description: Twitter Bot
 img: /img/thelist.jpg
@@ -8,7 +9,7 @@ A twitter bot that periodically generates tweets based on entries from [The List
 
 What is initially striking about this list is its scale. The collective loss of life is profound. Of the attempts to communicate this information visually, most seemed to accurately capture scale. In looking at these visualisations, I was moved to consider what we lose when we focus too narrowly on representing scale.
 
-In many coded (non-metaphorical) representations of scale, multiples are visualised as pictorial repetitions, or simply given or inferred by a value. For example, this [Guardian visualisation](https://www.theguardian.com/world/2018/jun/20/the-list-europe-migrant-bodycount) uses a dot to represent each person who has lost their life trying to reach Europe. I believe that this approach is reductive here, and diminishes the tragedy of this situation. Furthermore, this emphasis on scale in visual communication serves to reinforce dehumanising political language ('swarm', 'horde' 'plague' etc.) which implies that migration will 'overwhelm' Europe. The number of migrant deaths is significant not simply for its magnitude, but the fact that each death, or dot, is the loss of a singular human life, a unique story cut short. 
+In many coded (non-metaphorical) representations of scale, multiples are visualised as pictorial repetitions, or simply given or inferred by a value. For example, this [Guardian visualisation](https://www.theguardian.com/world/2018/jun/20/the-list-europe-migrant-bodycount) uses a dot to represent each person who has lost their life trying to reach Europe. I believe that this approach is reductive here, and diminishes the tragedy of this situation. Furthermore, this emphasis on scale in visual communication serves to reinforce dehumanising political language ('swarm', 'horde' 'plague' etc.) which implies that migration will 'overwhelm' Europe. The number of migrant deaths is significant not simply for its magnitude, but the fact that each death, or dot, is the loss of a singular human life, a unique story cut short.
 
 This project attempts to retain a sense of scale, while representing each person with more humanity. A twitter feed allows scale to be represented temporally. It will take years to tweet the more than 34,000 entries. With scale represented on the temporal plane, each individual is afforded a more detailed ackowledgement.
 

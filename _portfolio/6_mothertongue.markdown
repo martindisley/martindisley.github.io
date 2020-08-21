@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /melor-mothertongue/
 title: Track on Melor Records compilation
 description: Composition
 img: /img/melor.jpg

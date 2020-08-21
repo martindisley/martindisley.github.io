@@ -18,7 +18,7 @@ InSpace, Edinburgh, Scotland<br/>
 Leith Depot, Edinburgh Scotland<br/>
 
 11 October<br/>
-DIE HARD: REST NOW! Film Screening [(playback)](https://www.martindisley.co.uk/portfolio/2_restnowdiehard/)<br/>
+DIE HARD: REST NOW! Film Screening [(playback)](https://www.martindisley.co.uk/rest-now-die-hard/)<br/>
 Kunstencentrum Vooruit, Ghent, Belgium<br/>
 
 19 September<br/>
@@ -27,7 +27,7 @@ Mareel, Lerwick, Shetland<br/>
 
 25 July - 25 August<br/>
 [Extinction Rebellion: End Oil Now (curated as part of Summerhall Festival 19')](https://festival19.summerhall.co.uk/exhibition/extinction-rebellion/)<br/>
-[A Resonant Husk](https://www.martindisley.co.uk/portfolio/1_aresonanthusk/),<br/>
+[A Resonant Husk](https://www.martindisley.co.uk/a-resonant-husk/),<br/>
 Four-channel audio installation<br/>
 Summerhall, Edinburgh, Scotland<br/>
 
@@ -88,7 +88,7 @@ Edinburgh, UK (June)
 
 The Watching (Dee Isaacs)<br/>
 Live vocal processing and laptop performance<br/>
-Banjul, The Gambia (December) 
+Banjul, The Gambia (December)
 
 Audiotalalia Residency Showcase<br/>
 AV Installation<br/>
@@ -98,14 +98,14 @@ Tinderbox Room To Play- Hidden Door Festival<br/>
 Interactive AV Installation<br/>
 Edinburgh, UK (June)
 
-Post Cards From Our World (Dee Isaacs)<br/> 
-Sound Design<br/> 
+Post Cards From Our World (Dee Isaacs)<br/>
+Sound Design<br/>
 Edinburgh, UK (March)
 
 2015
 
 A Requiem For Edward Snowdon (Matthew Collings)<br/>
-Assistant Sound Technician<br/> 
+Assistant Sound Technician<br/>
 Edinburgh, UK (August)
 
 The Watching (Dee Isaacs)<br/>
