@@ -8,13 +8,16 @@ description: production credits, exhibitions, talks, live shows etc...
 2020
 
 13 August<br/>
-National Library of Scotland - [Artist in Residence Talk](https://www.eventbrite.co.uk/e/art-and-ai-mapping-imaginary-worlds-tickets-115994521737#)
+National Library of Scotland - [Artist in Residence Talk](https://www.eventbrite.co.uk/e/art-and-ai-mapping-imaginary-worlds-tickets-115994521737#)<br/>
+online<br/>
 
-17 July
-Visual Arts Scotland - [Friday Forums Talk](https://www.eventbrite.co.uk/e/friday-forum-12-tickets-113885456466#)
+17 July<br/>
+Visual Arts Scotland - [Friday Forums Talk](https://www.eventbrite.co.uk/e/friday-forum-12-tickets-113885456466#)<br/>
+online<br/>
 
-14 January
-Design Informatics - [Collider Talk](https://www.eventbrite.co.uk/e/collider-digitising-our-world-heritage-site-tickets-77082609159#)
+14 January<br/>
+Design Informatics - [Collider Talk](https://www.eventbrite.co.uk/e/collider-digitising-our-world-heritage-site-tickets-77082609159#)<br/>
+InSpace, Edinburgh, Scotland<br/>
 
 2019
 
