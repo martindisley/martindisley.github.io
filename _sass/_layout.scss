@@ -3,7 +3,6 @@
  * Site header   **********************************************************
  */
 .site-header {
-border-bottom: 1px solid $grey-color-light;
 background-color: #fff;
 opacity: 0.75;
 position:fixed;
@@ -21,7 +20,7 @@ letter-spacing: -3px;
 margin-bottom: 0;
 &:hover {
 text-decoration: none;
-color: $grey-color-light;
+color: $blue;
     }
 }
 .site-nav {
@@ -65,7 +64,7 @@ display: line;
         color: $theme-color;
         font-size: 50px;
         letter-spacing: -20;
-        
+
     }
     h2{
         font-size:25px;
@@ -76,9 +75,9 @@ display: line;
  * Site footer  **********************************************************
  */
 .site-footer {
-border-top: 1px solid $grey-color-dark;
+border-top: 1px solid $blue;
 font-size: 10px;
-background-color: $grey-color-dark;
+background-color: $blue;
 padding: 2px;
 color: #aaa;
 position:fixed;
@@ -168,7 +167,7 @@ font-size: 18px;
 .post-meta {
 font-size: $small-font-size;
 color: $grey-color;
-margin-bottom: 0px; 
+margin-bottom: 0px;
 }
 .post-link {
 display: block;
@@ -186,7 +185,7 @@ font-size: 16px;
 }
 
 
-/** 
+/**
  * Portfolio grid **********************************************************
 */
 // Nicolas Gallagher's micro clearfix hack
@@ -240,7 +239,7 @@ text-align: center;
 .thumbnail a:hover span {
 display: block;
 }
-/** 
+/**
  * Portfolio pages **********************************************************
 */
 .blankbox{
@@ -253,7 +252,7 @@ overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
 }
-.col{ 
+.col{
 width: 100%;
 height: 100%;
 float: left;

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /udallaw/
 title: Udal Law
 description: 4-Channel Electro-acoustic compostion
 img: /img/shetland.jpeg
