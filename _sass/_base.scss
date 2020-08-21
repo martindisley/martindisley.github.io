@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 /** Variables **********************************************/
 $base-font-family:              gill sans;
 $base-line-height:              1.5em;
-$horizontal-spacing-unit:       50px;
+$horizontal-spacing-unit:       25px;
 $vertical-spacing-unit:         40px;
 $nav-height:                    56px;
 
@@ -115,7 +115,7 @@ li {
  * Headings
  */
 h1 {
-    font-weight: 300;
+    font-weight: 200;
     letter-spacing: -3;
 }
 
@@ -136,7 +136,7 @@ a {
     }
     */
     &:hover {
-        color: $theme-color;
+        color: $grey-color-dark;
         text-decoration: none;
     }
 }
@@ -201,12 +201,11 @@ pre {
  */
 
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-    max-width:         calc(1200px - (#{$horizontal-spacing-unit} * 2));
+    max-width: calc(1200px - (#{$horizontal-spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $horizontal-spacing-unit;
-    padding-left: $horizontal-spacing-unit;
+    padding-right: $horizontal-spacing-unit / 2;
+    padding-left: $horizontal-spacing-unit / 2;
     @extend %clearfix;
 
     @include media-query($on-laptop) {

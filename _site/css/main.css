@@ -24,26 +24,26 @@ figure > img { display: block; }
 figcaption { font-size: 14px; }
 
 /** Lists */
-ul, ol { margin-left: 50px; }
+ul, ol { margin-left: 25px; }
 
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
-h1 { font-weight: 300; letter-spacing: -3; }
+h1 { font-weight: 200; letter-spacing: -3; }
 
 h2, h3, h4, h5, h6 { font-weight: 100; }
 
 /** Links */
 a { color: #0000FF; text-decoration: none; /* &:visited { color: darken($brand-color, 15%); } */ }
 
-a:hover { color: #0000FF; text-decoration: none; }
+a:hover { color: #222; text-decoration: none; }
 
 article a { color: #0000FF; font-weight: 100; }
 
 article a:hover { text-decoration: none; }
 
 /** Blockquotes */
-blockquote { color: #0000FF; border-left: 10px solid #ddd; padding-left: 25px; font-size: 18px; font-style: italic; }
+blockquote { color: #0000FF; border-left: 10px solid #ddd; padding-left: 12.5px; font-size: 18px; font-style: italic; }
 
 blockquote > :last-child { margin-bottom: 0; }
 
@@ -57,9 +57,9 @@ pre { padding: 8px 12px; overflow-x: scroll; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 /** Wrapper */
-.wrapper { max-width: -webkit-calc(800px - (50px * 2)); max-width: calc(1200px - (50px * 2)); margin-right: auto; margin-left: auto; padding-right: 50px; padding-left: 50px; }
+.wrapper { max-width: calc(1200px - (25px * 2)); margin-right: auto; margin-left: auto; padding-right: 12.5px; padding-left: 12.5px; }
 
-@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (50px)); max-width: calc(800px - (50px)); padding-right: 15px; padding-left: 15px; } }
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (25px)); max-width: calc(800px - (25px)); padding-right: 15px; padding-left: 15px; } }
 
 /** Clearfix */
 .wrapper:before, .wrapper:after { content: ""; display: table; clear: both; }
@@ -91,7 +91,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-footer p { margin-bottom: 0; }
 
 /** Pagination   ********************************************************** */
-.pagination { max-width: -webkit-calc(800px - (50px * 2)); text-align: center; width: 100%; position: fixed; bottom: 50px; }
+.pagination { max-width: -webkit-calc(800px - (25px * 2)); text-align: center; width: 100%; position: fixed; bottom: 50px; }
 
 .paginationicon { font-size: 50px; }
 

@@ -5,6 +5,10 @@ title: live actions
 description: production credits, exhibitions, talks, live shows etc...
 ---
 
+2020
+
+13 August<br/>
+National Library of Scotland - Artist in Residence Talk
 
 2019
 
@@ -77,37 +81,3 @@ Studio for Electro-Acoustic Music (SeaM), Weimar, Germany (June)
 The Tin Forest (Dee Isaacs)<br/>
 Laptop performance and sound design for theatre<br/>
 Banjul, The Gambia (April)
-
-2017
-
-Tinderbox Orchestra- Hidden Door Festival<br/>
-Live visuals and projection mapping<br/>
-Edinburgh, UK (June)
-
-2016
-
-The Watching (Dee Isaacs)<br/>
-Live vocal processing and laptop performance<br/>
-Banjul, The Gambia (December)
-
-Audiotalalia Residency Showcase<br/>
-AV Installation<br/>
-La Morera De Montsant, Spain (August)
-
-Tinderbox Room To Play- Hidden Door Festival<br/>
-Interactive AV Installation<br/>
-Edinburgh, UK (June)
-
-Post Cards From Our World (Dee Isaacs)<br/>
-Sound Design<br/>
-Edinburgh, UK (March)
-
-2015
-
-A Requiem For Edward Snowdon (Matthew Collings)<br/>
-Assistant Sound Technician<br/>
-Edinburgh, UK (August)
-
-The Watching (Dee Isaacs)<br/>
-Recording Engineer<br/>
-Edinburgh, UK (March)
