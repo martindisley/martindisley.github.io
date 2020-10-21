@@ -7,15 +7,15 @@ title: live actions
 2020
 
 13 August<br/>
-National Library of Scotland - [Artist in Residence Talk](https://www.eventbrite.co.uk/e/art-and-ai-mapping-imaginary-worlds-tickets-115994521737#)<br/>
-online<br/>
+[National Library of Scotland - Artist in Residence Talk](https://www.eventbrite.co.uk/e/art-and-ai-mapping-imaginary-worlds-tickets-115994521737#)<br/>
+Online<br/>
 
 17 July<br/>
-Visual Arts Scotland - [Friday Forums Talk](https://www.eventbrite.co.uk/e/friday-forum-12-tickets-113885456466#)<br/>
-online<br/>
+[Visual Arts Scotland - Friday Forums Talk](https://www.eventbrite.co.uk/e/friday-forum-12-tickets-113885456466#)<br/>
+Online<br/>
 
 14 January<br/>
-Design Informatics - [Collider Talk](https://www.eventbrite.co.uk/e/collider-digitising-our-world-heritage-site-tickets-77082609159#)<br/>
+[Design Informatics - Collider Talk](https://www.eventbrite.co.uk/e/collider-digitising-our-world-heritage-site-tickets-77082609159#)<br/>
 InSpace, Edinburgh, Scotland<br/>
 
 2019
