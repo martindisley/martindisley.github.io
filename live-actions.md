@@ -13,11 +13,11 @@ Nomas* Projects, Dundee<br/>
 
 2020
 
-07 November<br/>
+19 November<br/>
 [Given to Chance: Artists and Curators Panel Discussion](https://www.eventbrite.co.uk/e/given-to-chance-artists-and-curators-panel-discussion-tickets-128141270991)<br/>
 Online<br/>
 
-07 November<br/>
+17 November<br/>
 [Delic Sessions 007: Why Technology isn't Killing Creativity](https://www.blog.delic.network/sessions)<br/>
 Online<br/>
 
