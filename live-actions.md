@@ -106,5 +106,5 @@ Presentation of work-in-progress at Bauhaus University Weimar<br/>
 Studio for Electro-Acoustic Music (SeaM), Weimar, Germany (June)
 
 The Tin Forest (Dee Isaacs)<br/>
-Laptop performance and sound design for theatre<br/>
+Sound design<br/>
 Banjul, The Gambia (April)
