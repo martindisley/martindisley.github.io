@@ -25,10 +25,6 @@ Online<br/>
 [Lockdown Legacy: The Digital Future of the Art & Cultural Heritage World](https://www.eventbrite.com/e/lockdown-legacy-the-digital-future-of-the-art-cultural-heritage-world-tickets-124267895621#)<br/>
 Online<br/>
 
-07 November<br/>
-[Lockdown Legacy: The Digital Future of the Art & Cultural Heritage World](https://www.eventbrite.com/e/lockdown-legacy-the-digital-future-of-the-art-cultural-heritage-world-tickets-124267895621#)<br/>
-Online<br/>
-
 13 August<br/>
 [National Library of Scotland - Artist in Residence Talk](https://www.eventbrite.co.uk/e/art-and-ai-mapping-imaginary-worlds-tickets-115994521737#)<br/>
 Online<br/>
