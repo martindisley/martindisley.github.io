@@ -4,7 +4,30 @@ permalink: /live-action/
 title: live actions
 ---
 
+Currently
+
+12-30 November<br/>
+[Given to Chance: Indeterminacy/Share Commission Exhibition](https://indeterminacy.ac.uk/events/given-to-chance-exhibition/)<br/>
+Nomas* Projects, Dundee<br/>
+
+
 2020
+
+07 November<br/>
+[Given to Chance: Artists and Curators Panel Discussion](https://www.eventbrite.co.uk/e/given-to-chance-artists-and-curators-panel-discussion-tickets-128141270991)<br/>
+Online<br/>
+
+07 November<br/>
+[Delic Sessions 007: Why Technology isn't Killing Creativity](https://www.blog.delic.network/sessions)<br/>
+Online<br/>
+
+07 November<br/>
+[Lockdown Legacy: The Digital Future of the Art & Cultural Heritage World](https://www.eventbrite.com/e/lockdown-legacy-the-digital-future-of-the-art-cultural-heritage-world-tickets-124267895621#)<br/>
+Online<br/>
+
+07 November<br/>
+[Lockdown Legacy: The Digital Future of the Art & Cultural Heritage World](https://www.eventbrite.com/e/lockdown-legacy-the-digital-future-of-the-art-cultural-heritage-world-tickets-124267895621#)<br/>
+Online<br/>
 
 13 August<br/>
 [National Library of Scotland - Artist in Residence Talk](https://www.eventbrite.co.uk/e/art-and-ai-mapping-imaginary-worlds-tickets-115994521737#)<br/>
