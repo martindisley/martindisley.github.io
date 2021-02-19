@@ -29,18 +29,18 @@ ul, ol { margin-left: 25px; }
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
-h1 { font-weight: 200; letter-spacing: -3; }
+h1 { font-weight: 325; letter-spacing: -3; }
 
-h2, h3, h4, h5, h6 { font-weight: 100; }
+h2, h3, h4, h5, h6 { font-weight: 200; }
 
 /** Links */
 a { color: #0000FF; text-decoration: none; /* &:visited { color: darken($brand-color, 15%); } */ }
 
-a:hover { color: #222; text-decoration: none; }
+a:hover { color: #222; text-decoration: underline; }
 
-article a { color: #0000FF; font-weight: 100; }
+article a { color: #0000FF; font-weight: 200; }
 
-article a:hover { text-decoration: none; }
+article a:hover { text-decoration: underline; }
 
 /** Blockquotes */
 blockquote { color: #0000FF; border-left: 10px solid #ddd; padding-left: 12.5px; font-size: 18px; font-style: italic; }
@@ -83,7 +83,7 @@ iframe { position: relative !important; margin: 0 auto; width: 60% !important; d
 
 .header-bar { left: 0px; top: 0px; position: relative; font-size: 20px; display: block; opacity: 0.75; width: 100%; text-align: left; padding-top: 10px; line-height: 3em; z-index: 25; }
 
-.header-bar h1 { color: #0000FF; font-size: 50px; letter-spacing: -20; }
+.header-bar h1 { color: #0000FF; font-size: 50px; letter-spacing: 0; }
 
 .header-bar h2 { font-size: 25px; }
 

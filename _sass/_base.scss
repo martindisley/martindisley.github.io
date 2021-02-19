@@ -116,12 +116,12 @@ li {
  * Headings
  */
 h1 {
-    font-weight: 200;
+    font-weight: 325;
     letter-spacing: -3;
 }
 
 h2, h3, h4, h5, h6 {
-    font-weight: 100;
+    font-weight: 200;
 }
 
 
@@ -138,16 +138,16 @@ a {
     */
     &:hover {
         color: $grey-color-dark;
-        text-decoration: none;
+        text-decoration: underline;
     }
 }
 
 article a {
     color: $theme-color;
-    font-weight: 100;
+    font-weight: 200;
 
     &:hover {
-        text-decoration: none;
+        text-decoration: underline;
     }
 }
 
