@@ -6,13 +6,14 @@ permalink: /info/
 
 <!---<img class="col one right" src="/img/prof_pic.jpg">--->
 
+Martin Disley is an artist, researcher and creative technologist based in Edinburgh, Scotland. His work interrogates computer vision systems by manifesting their internal contradictions in image, video and sound.
 
-Martin Disley is a creative technologist based in Edinburgh, Scotland. He is currently [artist in residence at the National Library of Scotland](https://data.nls.uk/projects/artist-in-residence/) with the support of [Creative Informatics](https://creativeinformatics.org/showcase/meet-our-resident-entrepreneurs/). His practice includes [composition](https://www.martindisley.co.uk/rest-now-die-hard/), [installation](https://www.martindisley.co.uk/el-que-queda/) and [new media](https://www.martindisley.co.uk/the-list-tweeted/) projects and focuses on themes such as networked culture, data, ecology and migration. His work has exhibited in Scotland at [the V&A Museum, Summerhall, the CCA and at Hidden Door Festival, as well as in locations across Europe and beyond](https://www.martindisley.co.uk/live-action/).
+Martin was recently artist-in-residence at the National Library of Scotland and his work has exhibited at the V&A Museum (Dundee, Scotland), Summerhall (Edinburgh, Scotland), The Centre for Contemporary Arts (Glasgow, Scotland), Guterhallen Gallery (Soligen, Germany), Sala Aranyo (Barcelona, Spain) and Kunstencentrum Vooruit (Ghent, Belgium).  
 
 <br/>
 
-[twitter](https://twitter.com/martin_disley)<br/>
-[mail](mailto:martin_disley@icloud.com)
+[I'm on twitter.](https://twitter.com/martin_disley)<br/>
+[And you can reach me via email.](mailto:martin_disley@icloud.com)
 
 <!---<span class="contacticon left">
 	<a href="mailto:martin_disley@icloud.com"><i class="fa fa-envelope-square"></i></a>

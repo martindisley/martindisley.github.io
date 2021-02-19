@@ -4,14 +4,14 @@ permalink: /live-action/
 title: live actions
 ---
 
-Currently
+<!-- Currently -->
+
+
+2020
 
 12-30 November<br/>
 [Given to Chance: Indeterminacy/Share Commission Exhibition](https://indeterminacy.ac.uk/events/given-to-chance-exhibition/)<br/>
 Nomas* Projects, Dundee<br/>
-
-
-2020
 
 19 November<br/>
 [Given to Chance: Artists and Curators Panel Discussion](https://www.eventbrite.co.uk/e/given-to-chance-artists-and-curators-panel-discussion-tickets-128141270991)<br/>
