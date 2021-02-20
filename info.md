@@ -8,7 +8,7 @@ permalink: /info/
 
 Martin Disley is an artist, researcher and creative technologist based in Edinburgh, Scotland. His work interrogates computer vision systems by manifesting their internal contradictions in image, video and sound.
 
-Martin was recently artist-in-residence at the National Library of Scotland and his work has exhibited at the V&A Museum (Dundee, Scotland), Summerhall (Edinburgh, Scotland), The Centre for Contemporary Arts (Glasgow, Scotland), Guterhallen Gallery (Soligen, Germany), Sala Aranyo (Barcelona, Spain) and Kunstencentrum Vooruit (Ghent, Belgium).  
+Martin was recently artist-in-residence at the National Library of Scotland and his work has been exhibited at the V&A Museum (Dundee, Scotland), Summerhall (Edinburgh, Scotland), The Centre for Contemporary Arts (Glasgow, Scotland), Guterhallen Gallery (Soligen, Germany), Sala Aranyo (Barcelona, Spain) and Kunstencentrum Vooruit (Ghent, Belgium).  
 
 <br/>
 
