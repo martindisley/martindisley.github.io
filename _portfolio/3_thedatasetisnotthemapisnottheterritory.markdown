@@ -1,0 +1,37 @@
+---
+layout: post
+permalink: /the-dataset-is-not-the-map-is-not-the-territory/
+title: the dataset is not the map is not the territory
+description: HD Video
+img: /img/maps.jpg
+---
+
+<iframe src="https://player.vimeo.com/video/443394239" width="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+Cartography is generally considered to be a "factual" science; the map is considered an accurate mirror of the world ‘out there’, or at the very least, a graphical representation of it.
+
+However, the map is a political project. It is inseparable from the territorial imperative of the modern state and its exercise of violence. The map establishes the single sovereign body within a territory through the demarcation (and reification) of its borders. It is a technology wielded to promulgate class-based interests through the advancement of a combination of scientific insights and outright lies.
+
+*the dataset is not the map is not the territory (2020)* is a triptych of beguiling videos produced using generative machine learning techniques. The work seeks to destabilise the map's authority through disentangling the cartographic grammar and symbology from the geographical statement of the cartographer, and by disrupting its fixing of territory.
+
+The work utilises bespoke datasets created at the National Library of Scotland of more than 50,000 images of maps from their collections in order to train a series of machine learning models. StyleGAN, the machine learning architecture used to create the work, attempts to create new instances, or "fakes", of its training data, and once trained, the model can be manipulated to produce smooth transitions between combinations of parameter settings. Using this, the artist was able to create moving "maps of nowhere" that disarm the source material's authoritative voice and render the maps inert.
+
+In the images produced, the limited pallet of cartographic symbology that assures a maps legibility is stochastically reconfigured. Nevertheless, the maps retain the grammar that structures the relationship of visual objects. You can read these maps and imagine what these places might look like, despite the lack of a referent.
+
+With the absence of a referent, a partial disentangling of the elements of cartographic communication from the political statement they communicate takes place. However, cartographic language and the political statement cannot be entirely decoupled, since the language shapes the statement through its particular set of affordances. These affordances are themselves political, and set hard limits on what can and cannot be rendered. Here we see one way in which the violence of being 'off the map' manifests.
+
+This view presents a unique insight. It shows us that a map's interpretability has no bearing on its truth-carrying capacity. This is clear from studying the mechanics of StyleGAN generator module. In order to produce the fake maps the module receives visual noise as an input. This noise is then run through the model and rendered as a perfectly legible map. If noise can be rendered legible, any political statement can.
+
+The results of this representational attrition produce elegant and beguiling media forms that nullify the historical violence of the maps and instead produce ‘no lands’, places that are neither maps nor a territory. Instead of a definitive and determined rendering, space ceases to settle; the maps point to manifold interpretations of geographical space, equally sovereign and constantly in flux.
+
+The work’s title is a reference to the Polish scientist, Alfred Korzybski’s 1933 coinage “the map is not the territory". It is a reminder of the distinction between the representation of an object and the object itself. Confusing a representation of a territory for the real thing is an example of the fallacy of reification. *the dataset is not the map is not the territory*'s title updates this dictum for the age of ubiquitous AI, for a contemporary example of the fallacy of reification can be found in the mistaking of a machine learning model for reality itself. *the dataset is not the map is not the territory* draws associative links between the representational devices of new and old to underscore the impossible to express the totality of reality in language, images or code.
+
+<br>
+
+This work was funded by the Creative Informatics Resident Entrepreneur programme and realised as part of an artist-in-residence programme at the National Library of Scotland.
+
+Parts of this text are taken from the chapter *Intra-actions in Data-Driven Systems: Toward a creative praxis,* from *Distributed Perception: Resonances and Axiologies* forthcoming Routledge 2021 co-authored with Prof. Chris Speed.
+
+Special thanks to Sarah Ames and Chris Fleet and the National Library of Scotland and the staff at Creative Informatics.

@@ -1,92 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <title>work</title>
-    <meta name="description" content="oblique technology research">
-
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/portfolio/">
-
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-</head>
-
-
-  <body>
-
-    <header class="site-header">
-
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-        <!-- martin disley instead of blog -->
-        <a class="page-link" href="/">home</a>
-
-        
-          
-        
-          
-        
-          
-          <a class="page-link" href="/info/">info</a>
-          
-        
-          
-          <a class="page-link" href="/live-action/">live actions</a>
-          
-        
-          
-        
-          
-          <a class="page-link" href="/portfolio/">work</a>
-          
-        
-          
-        
-          
-        
-
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">work</h1>
-    <h5 class="post-description"></h5>
-  </header>
-
-  <article class="post-content">
-    
-<div class="project ">
-    <div class="thumbnail">
-        <a href="/how-they-met-themselves/">
-        
-        <img class="thumbnail" src="/img/title.png" />
-            
-        <span>
-            <h1>How They Met Themselves</h1>
-            <br />
-            <p>HD Video</p>
-        </span>
-        </a>
-    </div>
-</div>
-
+I"@
 <div class="project ">
     <div class="thumbnail">
         <a href="/future-false-positive/">
@@ -104,6 +16,36 @@
 
 <div class="project ">
     <div class="thumbnail">
+        <a href="/how-they-met-themselves/">
+        
+        <img class="thumbnail" src="/img/title.png" />
+            
+        <span>
+            <h1>How They Met Themselves</h1>
+            <br />
+            <p>HD Video</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/rest-now-die-hard/">
+        
+        <img class="thumbnail" src="/img/restnowdiehard.jpg" />
+            
+        <span>
+            <h1>Track on Rest Now! Compilation</h1>
+            <br />
+            <p>Composition</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
         <a href="/the-dataset-is-not-the-map-is-not-the-territory/">
         
         <img class="thumbnail" src="/img/maps.jpg" />
@@ -112,6 +54,21 @@
             <h1>the dataset is not the map is not the territory</h1>
             <br />
             <p>HD Video</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/the-list-tweeted/">
+        
+        <img class="thumbnail" src="/img/thelist.jpg" />
+            
+        <span>
+            <h1>The List Tweeted</h1>
+            <br />
+            <p>Twitter Bot</p>
         </span>
         </a>
     </div>
@@ -179,36 +136,6 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="/rest-now-die-hard/">
-        
-        <img class="thumbnail" src="/img/restnowdiehard.jpg" />
-            
-        <span>
-            <h1>Track on Rest Now! Compilation</h1>
-            <br />
-            <p>Composition</p>
-        </span>
-        </a>
-    </div>
-</div>
-
-<div class="project ">
-    <div class="thumbnail">
-        <a href="/the-list-tweeted/">
-        
-        <img class="thumbnail" src="/img/thelist.jpg" />
-            
-        <span>
-            <h1>The List Tweeted</h1>
-            <br />
-            <p>Twitter Bot</p>
-        </span>
-        </a>
-    </div>
-</div>
-
-<div class="project ">
-    <div class="thumbnail">
         <a href="/still-in-the-move/">
         
         <img class="thumbnail" src="/img/stillinthemove.png" />
@@ -222,15 +149,4 @@
     </div>
 </div>
 
-
-  </article>
-
-</div>
-
-      </div>
-    </div>
-
-
-  </body>
-
-</html>
+:ET
